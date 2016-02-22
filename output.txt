@@ -1,0 +1,62 @@
+
+The list of players is: 
+Pelletier (F) 88
+Thomson (M) 72
+Al-Dabbagh (F) 14
+MacTaggart (M) 8
+Beattie (M) 36
+Summerston (F) 61
+Bridges (M) 28
+Rae (F) 72
+Gehogan (F) 56
+Martin (M) 92
+Luscombe (M) 63
+Cowell (F) 79
+Grebe (F) 66
+Szwed (F) 49
+Wayt (F) 73
+Kerr (F) 33
+Cachelet (F) 11
+Melville (M) 50
+
+The high score is: 92
+
+The (high-score)-sorted list is: 
+Pelletier (F) 99
+Martin (M) 92
+Cowell (F) 79
+Wayt (F) 73
+Thomson (M) 72
+Rae (F) 72
+Grebe (F) 66
+Luscombe (M) 63
+Summerston (F) 61
+Gehogan (F) 56
+Melville (M) 50
+Szwed (F) 49
+Beattie (M) 36
+Kerr (F) 33
+Bridges (M) 28
+Al-Dabbagh (F) 14
+Cachelet (F) 11
+MacTaggart (M) 8
+
+The (name)-sorted list is:
+Al-Dabbagh (F) 14
+Beattie (M) 36
+Bridges (M) 28
+Cachelet (F) 11
+Cowell (F) 79
+Gehogan (F) 56
+Grebe (F) 66
+Kerr (F) 33
+Luscombe (M) 63
+MacTaggart (M) 8
+Martin (M) 92
+Melville (M) 50
+Pelletier (F) 99
+Rae (F) 72
+Summerston (F) 61
+Szwed (F) 49
+Thomson (M) 72
+Wayt (F) 73
